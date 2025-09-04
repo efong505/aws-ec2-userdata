@@ -105,6 +105,3 @@ This keeps your instance lightweight and avoids hitting the user data size limit
 
 ***
 
-Let me know if you'd like this published to GitHub or styled for a documentation site!
-
-Would you like me to generate a downloadable `.md` file again, or help you upload this to your S3 bucket or GitHub repo?
