@@ -1,4 +1,4 @@
-Here’s the full **text version** of your AWS EC2 automation tutorial in Markdown format. You can copy and paste this into any Markdown editor, GitHub README, or documentation site:
+
 
 ***
 
